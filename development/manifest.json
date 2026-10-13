@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
   "channel": "development",
-  "version": "0.2.6",
-  "published_at": "2026-10-12T23:54:36.042Z",
-  "executable_url": "https://github.com/ymgrmny-gif/RemoteDesktop-Downloads/releases/download/development-v0.2.6/RemoteDesktop-Support-Windows-x64-0.2.6.exe",
-  "executable_sha256": "a291757cfe6820d978d429233e53bc27693c0682853754b66e684020d8daae44",
-  "executable_size": 64742912,
-  "package_url": "https://github.com/ymgrmny-gif/RemoteDesktop-Downloads/releases/download/development-v0.2.6/RemoteDesktop-Support-Windows-x64-0.2.6.zip",
-  "package_sha256": "ab94abd16da70a6e53bdc83bfe0550abcadc1d8c343813f710544c10b70100f4",
+  "version": "0.2.7",
+  "published_at": "2026-10-13T00:31:03.916Z",
+  "executable_url": "https://github.com/ymgrmny-gif/RemoteDesktop-Downloads/releases/download/development-v0.2.7/RemoteDesktop-Support-Windows-x64-0.2.7.exe",
+  "executable_sha256": "3a71c41de0b00a10bf6f67cb3aefbbd7317de5289bcb8382800c31633945ba12",
+  "executable_size": 64752128,
+  "package_url": "https://github.com/ymgrmny-gif/RemoteDesktop-Downloads/releases/download/development-v0.2.7/RemoteDesktop-Support-Windows-x64-0.2.7.zip",
+  "package_sha256": "9d176633cdc46a1192d1668b504d2c7e4672d400bfc38de7b188eb4b05fb84af",
   "mandatory": false
 }
